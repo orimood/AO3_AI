@@ -1,0 +1,5 @@
+*.jsonl
+*.jsonl.zst
+.DS_Store
+.idea/
+fanfic-env/
